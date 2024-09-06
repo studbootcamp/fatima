@@ -1,0 +1,11 @@
+<html>
+	<head>
+		<title>zakeeyya</title>
+	</head>
+	<body>
+		<header>
+			<h1>my blog</h1>
+			<nav></nav> 
+		</header>
+	</body>
+</html>
